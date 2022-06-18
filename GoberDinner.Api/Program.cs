@@ -1,3 +1,4 @@
+using GoberDinner.Application;
 using GoberDinner.Application.Services.Authentication;
 
 var builder = WebApplication.CreateBuilder(args);
