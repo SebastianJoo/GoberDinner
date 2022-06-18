@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NytdbANMoAaiShfR2oHNniZW/jjHAzQrnILvVqmG1ZWUO15jXyZUYqhko8LyLBaybEv9lNq0m/KiuT1gPnhd6w==",
+  "dgSpecHash": "ODKTHIpWnrh2VoeN3+1JmEytsuUkuQr4YIrhrgsDW/G65huSRzbIk0/HHNUDLziw4T3YktITo7lGgi0B/FoDPA==",
   "success": true,
   "projectFilePath": "/home/seb/projects/GoberDinner/GoberDinner.Api/GoberDinner.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/seb/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
