@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GoberDinner.Api/1.0.0": {
+        "dependencies": {
+          "GoberDinner.Application": "1.0.0",
+          "GoberDinner.Contracts": "1.0.0",
+          "GoberDinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "GoberDinner.Api.dll": {}
+        }
+      },
+      "GoberDinner.Application/1.0.0": {
+        "dependencies": {
+          "GoberDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GoberDinner.Application.dll": {}
+        }
+      },
+      "GoberDinner.Contracts/1.0.0": {
+        "runtime": {
+          "GoberDinner.Contracts.dll": {}
+        }
+      },
+      "GoberDinner.Domain/1.0.0": {
+        "runtime": {
+          "GoberDinner.Domain.dll": {}
+        }
+      },
+      "GoberDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "GoberDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "GoberDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoberDinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoberDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoberDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoberDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoberDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

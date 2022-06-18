@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/seb/projects/GoberDinner/GoberDinner.Api/GoberDinner.Api.csproj": {}
+  },
+  "projects": {
+    "/home/seb/projects/GoberDinner/GoberDinner.Api/GoberDinner.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/seb/projects/GoberDinner/GoberDinner.Api/GoberDinner.Api.csproj",
+        "projectName": "GoberDinner.Api",
+        "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Api/GoberDinner.Api.csproj",
+        "packagesPath": "/home/seb/.nuget/packages/",
+        "outputPath": "/home/seb/projects/GoberDinner/GoberDinner.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/seb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj": {
+                "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj"
+              },
+              "/home/seb/projects/GoberDinner/GoberDinner.Contracts/GoberDinner.Contracts.csproj": {
+                "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Contracts/GoberDinner.Contracts.csproj"
+              },
+              "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/GoberDinner.Infrastructure.csproj": {
+                "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/GoberDinner.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj",
+        "projectName": "GoberDinner.Application",
+        "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj",
+        "packagesPath": "/home/seb/.nuget/packages/",
+        "outputPath": "/home/seb/projects/GoberDinner/GoberDinner.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/seb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/seb/projects/GoberDinner/GoberDinner.Domain/GoberDinner.Domain.csproj": {
+                "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Domain/GoberDinner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/seb/projects/GoberDinner/GoberDinner.Contracts/GoberDinner.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/seb/projects/GoberDinner/GoberDinner.Contracts/GoberDinner.Contracts.csproj",
+        "projectName": "GoberDinner.Contracts",
+        "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Contracts/GoberDinner.Contracts.csproj",
+        "packagesPath": "/home/seb/.nuget/packages/",
+        "outputPath": "/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/seb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/seb/projects/GoberDinner/GoberDinner.Domain/GoberDinner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/seb/projects/GoberDinner/GoberDinner.Domain/GoberDinner.Domain.csproj",
+        "projectName": "GoberDinner.Domain",
+        "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Domain/GoberDinner.Domain.csproj",
+        "packagesPath": "/home/seb/.nuget/packages/",
+        "outputPath": "/home/seb/projects/GoberDinner/GoberDinner.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/seb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/GoberDinner.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/GoberDinner.Infrastructure.csproj",
+        "projectName": "GoberDinner.Infrastructure",
+        "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/GoberDinner.Infrastructure.csproj",
+        "packagesPath": "/home/seb/.nuget/packages/",
+        "outputPath": "/home/seb/projects/GoberDinner/GoberDinner.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/seb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj": {
+                "projectPath": "/home/seb/projects/GoberDinner/GoberDinner.Application/GoberDinner.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

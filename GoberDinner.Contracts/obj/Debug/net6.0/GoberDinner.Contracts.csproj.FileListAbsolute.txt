@@ -1,0 +1,12 @@
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/bin/Debug/net6.0/GoberDinner.Contracts.deps.json
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/bin/Debug/net6.0/GoberDinner.Contracts.dll
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/bin/Debug/net6.0/GoberDinner.Contracts.pdb
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.csproj.AssemblyReference.cache
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.AssemblyInfoInputs.cache
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.AssemblyInfo.cs
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.csproj.CoreCompileInputs.cache
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.dll
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/refint/GoberDinner.Contracts.dll
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/GoberDinner.Contracts.pdb
+/home/seb/projects/GoberDinner/GoberDinner.Contracts/obj/Debug/net6.0/ref/GoberDinner.Contracts.dll
