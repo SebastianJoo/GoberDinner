@@ -1,5 +1,5 @@
 using BuberDinner.Application.Common.Interfaces.Authentication;
-using GoberDinner.Application.Common.Interfaces.Persistance;
+using GoberDinner.Application.Common.Interfaces.Persistence;
 using GoberDinner.Domain.Entities;
 
 namespace GoberDinner.Application.Services.Authentication;
